@@ -1,0 +1,9 @@
+                                                 VERSION CONTROLE SOFTWARE
+
+  Version Control Software VCS is also referred as SCM (Source Code Management) tools or RCS (Revision Control System).
+Version control is a way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. It is very much required where multiple developers are continuously working on /changing the source code.
+
+The three most popular version control systems are broken down into two main categories, centralized and decentralized (also known as distributed)
+Version control enables multiple people to simultaneously work on a single project. Each person edits his or her own copy of the files and chooses when to share those changes with the rest of the team. Thus, temporary or partial edits by one person do not interfere with another person's work
+
+Benefits. Version control is important for documents that undergo a lot of revision and redrafting and is particularly important for electronic documents because they can easily be changed by a number of different users. These changes may not be immediately apparent.
